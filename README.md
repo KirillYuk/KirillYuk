@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=New%20Rocker&amp;size=36&amp;duration=3500&amp;color=f44441&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=I refuse to stay weak in any timeline;Learning. Building. Evolving.;Everything you can imagine is real;Your only limit is yourself" />
+<img src="https://readme-typing-svg.demolab.com?font=New+Rocker&amp;size=36&amp;duration=3500&amp;color=f44441&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=70&amp;lines=I+refuse+to+stay+weak+in+any+timeline;Learning.+Building.+Evolving.;Everything+you+can+imagine+is+real;Your+only+limit+is+yourself" />
 </div>
 
 <br>
