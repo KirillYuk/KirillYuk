@@ -26,7 +26,7 @@ Kyrylo
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KirillYuk&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact&amp;bg_color=1a1a1a&amp;title_color=f44441&amp;text_color=ff8677" />
 
-<br>
+<br></br>
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KirillYuk&amp;theme=dark&amp;stroke=ffa693&amp;background=1a1a1a&amp;ring=f44441&amp;fire=d01c28&amp;currStreakNum=d01c28&amp;sideNums=d01c28&amp;currStreakLabel=f44441&amp;dates=FFFFFF" />
