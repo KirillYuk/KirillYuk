@@ -12,7 +12,10 @@
 
 ## whoami
 
-Kyrylo
+Hi, I’m Kyrylo, a Computer Science student from Kyiv. I’m currently learning software development and exploring different areas of IT to build strong technical skills and practical experience. I enjoy learning new technologies, solving problems, and working on projects that help me improve step by step.
+
+At this stage, I’m focused on studying, gaining experience, and becoming a better developer through continuous learning and practice.
+
 </div>
 
 <br>
