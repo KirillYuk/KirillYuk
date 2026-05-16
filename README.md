@@ -54,15 +54,15 @@ At this stage, I’m focused on studying, gaining experience, and becoming a bet
 
 <div align="center">
 
-### ⚡ Currently Working On
+### Currently Working On
 
-🐍 Learning Python
+🐍 Learning Python 🐍
 
-💻 Improving problem solving skills
+💻 Improving problem solving skills 💻
 
-🌌 Building my developer journey
+🌌 Building my developer journey 🌌
 
-⚔️ Creating future projects
+⚔️ Creating future projects ⚔️
 </div>
 
 <div align="center">
