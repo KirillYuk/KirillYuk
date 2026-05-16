@@ -52,6 +52,8 @@ At this stage, I’m focused on studying, gaining experience, and becoming a bet
 <img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&amp;logo=telegram&amp;logoColor=f44441"/></a>
 </div>
 
+<br>
+
 <div align="center">
 
 ### Currently Working On
