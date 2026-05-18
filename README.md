@@ -62,7 +62,7 @@ Learning Python
 
 Learning JS
 
-Building my developer journey
+Improving problem solving skills
 
 Creating future projects
 
