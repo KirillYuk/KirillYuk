@@ -8,7 +8,7 @@
 
 <br>
 
-<div align="center">
+<div align="justify">
 
 ## whoami
 
@@ -20,7 +20,7 @@ At this stage, I’m focused on studying, gaining experience, and becoming a bet
 
 <br>
 
-<div align="center">
+<div align="justify">
 
 ### Skills
 <img src="https://skillicons.dev/icons?i=python,git,vscode,github,photoshop&amp;theme=dark" />
@@ -28,7 +28,7 @@ At this stage, I’m focused on studying, gaining experience, and becoming a bet
 
 <br>
 
-<div align="center">
+<div align="justify">
 
 ### Statistics
 
@@ -44,7 +44,7 @@ At this stage, I’m focused on studying, gaining experience, and becoming a bet
 
 <br>
 
-<div align="center">
+<div align="justify">
 
 ### Connect with Me
 
@@ -54,17 +54,18 @@ At this stage, I’m focused on studying, gaining experience, and becoming a bet
 
 <br>
 
-<div align="center">
+<div align="justify">
 
 ### Currently Working On
 
-🐍 Learning Python 🐍
+Learning Python
 
-💻 Improving problem solving skills 💻
+Learning JS
 
-🌌 Building my developer journey 🌌
+Building my developer journey
 
-⚔️ Creating future projects ⚔️
+Creating future projects
+
 </div>
 
 <div align="center">
