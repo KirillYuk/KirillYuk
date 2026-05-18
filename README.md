@@ -23,7 +23,7 @@ At this stage, I’m focused on studying, gaining experience, and becoming a bet
 <div align="justify">
 
 ### Skills
-<img src="https://skillicons.dev/icons?i=python,git,vscode,github,photoshop&amp;theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,css,html,git,github,vscode,photoshop&amp;theme=dark" />
 </div>
 
 <br>
