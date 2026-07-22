@@ -12,9 +12,11 @@
 
 ## whoami
 
-Hi, I’m Kyrylo, a Computer Science student from Ukraine. I’m currently learning software development and exploring different areas of IT to build strong technical skills and practical experience. I enjoy learning new technologies, solving problems, and working on projects that help me improve step by step.
+Hi, I'm Kyrylo, a Software Engineering student from Ukraine, currently studying at Igor Sikorsky Kyiv Polytechnic Institute (KPI).
 
-At this stage, I’m focused on studying, gaining experience, and becoming a better developer through continuous learning and practice.
+I'm passionate about programming and technology, with a strong interest in building clean, user-friendly applications. I enjoy learning modern technologies, solving problems, and turning ideas into real projects through code.
+
+At this stage, I'm focused on strengthening my technical skills by building personal projects, gaining practical experience, and continuously improving as a developer.
 
 </div>
 
@@ -69,6 +71,8 @@ Creating future projects
 </div>
 
 <div align="center">
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:ff2231,100:b21722&amp;height=120&amp;section=footer"/>
 
