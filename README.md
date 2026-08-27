@@ -62,7 +62,7 @@ At this stage, I'm focused on strengthening my technical skills by building pers
 
 Learning Python
 
-Learning JS
+Learning Linux
 
 Improving problem solving skills
 
